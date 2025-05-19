@@ -10,6 +10,8 @@
 
 A BASH script that provides a TUI (Terminal User Interface) to the command line program of Chirp, using menus with FZF. The project is WIP (work in progress). Some features are not implemented, as chirp has not very good documentation. Any help is appreciated.
 
+![chirpshell](chirpshell.png)
+
 ## Features
 
 - All features provided from cli chirp program, like download/upload memory
